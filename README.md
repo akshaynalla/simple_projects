@@ -1,6 +1,6 @@
 # simple_projects
 
-This is a collection of simple programs from the past few years.
+This is a collection of simple programs
 
 fibonacci.py - practicing recusion by calculating the fibonacci number at a given position  
 inversions.py - program that is able to take two arrays and determine the number of inversions between them  
