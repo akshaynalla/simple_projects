@@ -1,3 +1,7 @@
+"""
+Program to explore the simulated results of the Monty Hall problem.
+"""
+
 import random as rand
 
 def set_up():
